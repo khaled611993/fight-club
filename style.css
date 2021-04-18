@@ -1,0 +1,41 @@
+h1{
+  text-align: center;
+color:#eeebdd;
+margin: 10px;
+font-style: italic;
+padding: 10px;
+}
+header{
+  background-color: black;
+}
+
+body  {
+  background-color: #ce1212;
+}
+main{
+  background-color: #810000;
+}
+footer{
+  background-color: #1b1717;
+  text-align: center;
+  
+  color: white;
+}
+nav ul li{
+  display: inline;
+  margin: 30px;
+  font-size: 20px;
+  font-style: italic;
+  
+}
+nav ul li a{
+  color:#eeebdd;
+   text-decoration:none;
+   font-style: italic;
+  
+}
+main article p{
+  color:#eeebdd;
+  font-size: 20px;
+  font-style: italic;
+}

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 
@@ -26,20 +26,20 @@
  }
  else if (yourFav === 'hero') {
   userChoose = '<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJWcG5bRITO64o4zFQpdJDQ_suWuUMe68AA&usqp=CAU">';
-=======
+
 var age= prompt('please enter your age')
 if (age >=18)
 {alert ('enjoy watching')
->>>>>>> 9be461e1c4f59c9040e0a7c134aa76132fa88d34
+
 }
 var imgNum = prompt('How many images do you want?')
 for (var i = 0; i < imgNum; i++) {
   document.write(userChoose);
 }
-<<<<<<< HEAD
+
   }
   yourName();
-=======
+
 document.write('<img src="http://lucyvhayauthor.com/wp-content/uploads/2017/02/689300.jpg">')
 var yourFav = prompt ('please enter your fav main character in the movie')
 while (yourFav !==  "tyler" &&  yourFav !== 'hero'){
@@ -54,4 +54,4 @@ else if (yourFav === 'hero'){
 var imgNum = prompt ('How many images do you want?')
 for(var i=0 ; i < imgNum; i++ ){
   document.write(userChoose);}
->>>>>>> 9be461e1c4f59c9040e0a7c134aa76132fa88d34
+  }
