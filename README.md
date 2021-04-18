@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
   <head>
@@ -48,3 +49,6 @@ Palahniuk's novel was optioned by Fox 2000 Pictures producer Laura Ziskin, who h
   </body>
 
 </html>
+=======
+ my partner is mahoud kheter
+>>>>>>> 477c407136a38b2cce86a3923b458d6f808b6e49
